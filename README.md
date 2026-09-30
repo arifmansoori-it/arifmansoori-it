@@ -12,10 +12,11 @@ JSpiders-certified in Java Full Stack Development | Immediately available
 
 - 🎓 B.Tech in Electronics and Communication Engineering — RGPV Bhopal (2025)
 - 💻 JSpiders-certified in Java Full Stack Development, Bengaluru
-- 🔧 I build production-style backend systems — not tutorials — with real authentication, transaction management, and role-based access control
+- 🧑‍💻 Completed a 6-month Java Full Stack internship at Test Yantra Software Solutions (Feb–Jul 2026)
+- 🔧 I build production-style backend systems with real authentication, transaction management, and role-based access control
 - 🏆 Institute-level selectee for Smart India Hackathon (SIH)
 - 📍 Based in Bengaluru, open to relocation
-- 🌱 Currently deepening my knowledge of Spring Security, system design, and testing (JUnit)
+- 🌱 Currently deepening my knowledge of Spring Security and system design
 
 ---
 
@@ -48,26 +49,20 @@ JSpiders-certified in Java Full Stack Development | Immediately available
 
 ### 📌 Featured Projects
 
-**🔹 [Apex Inventory](https://github.com/Mohammad742338)** — Inventory & Order Management System
+**🔹 [Apex Inventory](https://github.com/arifmansoori-it/Apex-Inventory)** — Inventory & Order Management System
 Secure REST API built with Java, Spring Boot 4.1, and Spring Security. Features JWT-based authentication, role-based access control (Admin/Customer), and a transactional order engine that auto-manages stock across 15+ endpoints. Includes price snapshotting and centralized exception handling via `@RestControllerAdvice`.
 
-**🔹 [MediCare+](https://github.com/Mohammad742338)** — Patient & Appointment Management Platform
-Hospital workflow management system with 42+ RESTful Spring Boot APIs across 5 domain entities — Doctor, Patient, Appointment, MedicalRecord, and Prescription. Built with PostgreSQL and Spring Data JPA.
+**🔹 [MediCare+](https://github.com/arifmansoori-it/MediCare-plus)** — Patient & Appointment Management Platform
+Hospital workflow management system with 42+ RESTful Spring Boot APIs across 5 domain entities: Doctor, Patient, Appointment, MedicalRecord, and Prescription. Built with PostgreSQL and Spring Data JPA.
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammad742338&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammad742338&theme=default&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+**🔹 [Relay Countdown Timer Switch](https://github.com/arifmansoori-it/Relay-Countdown-Timer-Switch)** — Embedded / IoT
+Water pump automation using Arduino UNO and a Real-Time Clock (RTC) with a relay timer switch. Built in C++ during my ECE background.
 
 ---
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-arif-mansoori-534572233)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arifmansoori.7423338@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammad.mansoori.it@gmail.com)
 
 <p align="center"><i>"Building systems that work end-to-end, not just tutorials."</i></p>
